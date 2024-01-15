@@ -13,11 +13,7 @@ This repository contains the Rust code for a prediction market smart contract bu
 
 ## Usage
 
-### Prerequisites
 
-- Rust installed (https://www.rust-lang.org/)
-
-### Build and Deploy
 
 1. Clone the repository:
 
